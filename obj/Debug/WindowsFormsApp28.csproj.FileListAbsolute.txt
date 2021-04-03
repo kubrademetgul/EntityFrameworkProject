@@ -1,0 +1,9 @@
+C:\Users\Monster\source\repos\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe.config
+C:\Users\Monster\source\repos\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe
+C:\Users\Monster\source\repos\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.pdb
+C:\Users\Monster\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Properties.Resources.resources
+C:\Users\Monster\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.exe
+C:\Users\Monster\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.pdb
+C:\Users\Monster\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form1.resources
